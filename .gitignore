@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+hasil_scan_proyek.txt
+downloads/
+ytclip_*/
+.DS_Store
+scanner.py
